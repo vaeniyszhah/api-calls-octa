@@ -78,12 +78,12 @@ p {
   border-radius: 10px;
   border: none;
   margin-bottom: 60px;
-  background-color: #ffecc6;
+  background-color:lightpink;
 }
 
 .modal {
   border-radius: 8px;
-  background-color: blanchedalmond;
+  background-color:lightpink;
   display: flex;
   justify-content: center;
   align-items: center;
